@@ -1,5 +1,3 @@
 <?php
 
-echo "ДАВИД ЛОХ";
-
-?>
+echo php_uname();
